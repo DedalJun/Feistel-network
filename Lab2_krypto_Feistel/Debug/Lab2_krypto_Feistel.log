@@ -1,0 +1,27 @@
+﻿Построение начато 22.10.2017 14:57:05.
+     1>Проект "C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Lab2_krypto_Feistel\Lab2_krypto_Feistel.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab2_krypto_Feistel.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt code.cpp
+         code.cpp
+     1>c:\users\админ\documents\visual studio 2010\projects\lab2_krypto_feistel\lab2_krypto_feistel\code.cpp(14): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2010\projects\lab2_krypto_feistel\lab2_krypto_feistel\code.cpp(39): warning C4244: +=: преобразование "double" в "char", возможна потеря данных
+     1>c:\users\админ\documents\visual studio 2010\projects\lab2_krypto_feistel\lab2_krypto_feistel\code.cpp(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\админ\documents\visual studio 2010\projects\lab2_krypto_feistel\lab2_krypto_feistel\code.cpp(195): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab2_krypto_Feistel.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.lib" /MACHINE:X86 Debug\code.obj
+         LINK : не найден или не выполнена сборка C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.exe при последней инкрементной компоновке; выполняется полная компоновка
+         Lab2_krypto_Feistel.vcxproj -> C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Debug\Lab2_krypto_Feistel.exe;#1" /manifest Debug\Lab2_krypto_Feistel.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Lab2_krypto_Feistel.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab2_krypto_Feistel.lastbuildstate".
+     1>Построение проекта "C:\Users\Админ\Documents\Visual Studio 2010\Projects\Lab2_krypto_Feistel\Lab2_krypto_Feistel\Lab2_krypto_Feistel.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.94

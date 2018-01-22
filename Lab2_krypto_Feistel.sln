@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2_krypto_Feistel", "Lab2_krypto_Feistel\Lab2_krypto_Feistel.vcxproj", "{998A1856-65A6-478D-8066-F564C287522A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998A1856-65A6-478D-8066-F564C287522A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{998A1856-65A6-478D-8066-F564C287522A}.Debug|Win32.Build.0 = Debug|Win32
+		{998A1856-65A6-478D-8066-F564C287522A}.Release|Win32.ActiveCfg = Release|Win32
+		{998A1856-65A6-478D-8066-F564C287522A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
